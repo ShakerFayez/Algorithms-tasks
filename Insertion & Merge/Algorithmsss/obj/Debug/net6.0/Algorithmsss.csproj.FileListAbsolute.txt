@@ -1,0 +1,15 @@
+E:\Algorithmsss\Algorithmsss\bin\Debug\net6.0\Algorithmsss.exe
+E:\Algorithmsss\Algorithmsss\bin\Debug\net6.0\Algorithmsss.deps.json
+E:\Algorithmsss\Algorithmsss\bin\Debug\net6.0\Algorithmsss.runtimeconfig.json
+E:\Algorithmsss\Algorithmsss\bin\Debug\net6.0\Algorithmsss.dll
+E:\Algorithmsss\Algorithmsss\bin\Debug\net6.0\Algorithmsss.pdb
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\Algorithmsss.csproj.AssemblyReference.cache
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\Algorithmsss.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\Algorithmsss.AssemblyInfoInputs.cache
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\Algorithmsss.AssemblyInfo.cs
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\Algorithmsss.csproj.CoreCompileInputs.cache
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\Algorithmsss.dll
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\refint\Algorithmsss.dll
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\Algorithmsss.pdb
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\Algorithmsss.genruntimeconfig.cache
+E:\Algorithmsss\Algorithmsss\obj\Debug\net6.0\ref\Algorithmsss.dll
